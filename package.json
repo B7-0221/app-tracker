@@ -1,0 +1,12 @@
+{
+  "name": "app-tracker",
+  "version": "1.0.0",
+  "description": "记录手机当前打开的App，供AI查询",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
